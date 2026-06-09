@@ -6,8 +6,8 @@ Repositori ini dibuat untuk memenuhi tugas praktikum mata kuliah Pemrograman Per
 
 ## 👤 Identitas Mahasiswa
 * **Nama:** Abdullah Tsaqif Cakrawibowo
-* **NIM:** [Isi NIM Anda di Sini, contoh: 220911xxxx]
-* **Kelas:** [Isi Kelas Anda di Sini, contoh: TI-5A]
+* **NIM:** 452024611036
+* **Kelas:** TI 5 A1
 * **Proyek:** Aplikasi Dice Roller (Google Developer Codelab)
 
 ---
@@ -35,4 +35,3 @@ Proyek ini dikerjakan secara bertahap menggunakan *version control* Git dengan r
 2. `feat: implementasi logika acak dan state` (Fase penambahan fungsi tombol, State Compose, dan logika acak 1-6).
 
 ---
-*Catatan untuk Dosen Pengampu: Aplikasi telah diuji coba (running) secara lokal dan dapat memunculkan gambar dadu yang tepat sesuai dengan angka acak yang dihasilkan tanpa ada error pada Asset/Resource.*
